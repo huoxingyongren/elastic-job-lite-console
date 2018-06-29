@@ -1,0 +1,11 @@
+com.dangdang.ddframe.job.lite.console
+com.dangdang.ddframe.job.lite.console.domain
+com.dangdang.ddframe.job.lite.console.exception
+com.dangdang.ddframe.job.lite.console.filter
+com.dangdang.ddframe.job.lite.console.repository
+com.dangdang.ddframe.job.lite.console.repository.impl
+com.dangdang.ddframe.job.lite.console.restful
+com.dangdang.ddframe.job.lite.console.restful.config
+com.dangdang.ddframe.job.lite.console.service
+com.dangdang.ddframe.job.lite.console.service.impl
+com.dangdang.ddframe.job.lite.console.util
